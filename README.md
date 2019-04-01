@@ -1,3 +1,3 @@
 # Class-Project
-HTML
+HTML and CSS
 
